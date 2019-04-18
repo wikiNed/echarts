@@ -10,7 +10,7 @@ export const mCo=({
     series:[{
         name:'销量',
         type:'bar',
-        data: [20,9,12,15,51]
+        data: [20,9,12,15,24]
     }]
 });
 
